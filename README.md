@@ -6,7 +6,7 @@
 
 - Set the program to autostart on login to get a daily reminder on the prices of online items you may be interested in, items that have changed price are automatically highlighted in green.
 
-- Ready to run zip containing executable version of the application is available in the [release section](https://github.com/tobblez/AusPriceChecker/releases)
+- Ready to run executable version of the application is available in the [release section](https://github.com/tobblez/AusPriceChecker/releases)
 
 ## Support for the following websites:
 1. Woolworths - https://www.woolworths.com.au
@@ -29,8 +29,8 @@
 17. Amazon Australia - http://amazon.com.au (*Works for most items, may not work with books)
 18. Kathmandu - http://kathmandu.com.au
 
-![Alt text](Screenshots/AusPriceCheckerInterface1.png?raw=true "Main Display")
+![Alt text](screenshots/Screenshot1.png?raw=true "Main Display")
 
-![Alt text](Screenshots/AusPriceCheckerInterface2.png?raw=true "Adding items")
+![Alt text](screenshots/Screenshot2.png?raw=true "Adding items")
 
 - CSS stylesheet credit: https://github.com/ColinDuquesnoy/QDarkStyleSheet
