@@ -34,3 +34,15 @@
 ![Alt text](screenshots/Screenshot2.png?raw=true "Adding items")
 
 - CSS stylesheet credit: https://github.com/ColinDuquesnoy/QDarkStyleSheet
+
+## Installation
+
+##### Option 1:
+1. Download and run the executable from the [release section](https://github.com/tobblez/AusPriceChecker/releases) which requires no dependencies
+	* Note the executable is not signed and will generate warnings from Windows when intially running
+
+##### Option 2:
+1. Download project as zip
+2. Extract to desired directory keeping everything in the same folder
+3. Install required python packages by running `pip3 install -r requirements.txt`
+4. Run application using `python3.exe PriceCheckerGUI.py`
