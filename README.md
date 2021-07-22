@@ -1,4 +1,4 @@
-# AusPriceChecker
+# Aus Price Checker
 
 - Simple application written in Python using the PyQT5 GUI framework that tracks the online price of items from a variety of websites.
 
