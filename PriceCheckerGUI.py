@@ -859,10 +859,8 @@ class CheckPrice(QThread):
     def msy(self, soup):
 
         try:
-            data = soup.find(class_="prices")
-            data = data.find_next()
-            data = data.find_next()
-            productPrice = data.string.strip()[1:]
+            data = soup.find(class_="current-price")
+            productPrice = data.text[2:].strip()
 
             title = soup.find("h1", itemprop="name")
             productName = str("MSY ### {}".format(title.string.strip()))
